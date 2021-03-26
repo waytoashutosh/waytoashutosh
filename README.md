@@ -9,4 +9,5 @@
 
 👨‍💻 I like to solve real life problems with amazing technology <br>
 👨‍🎓 Studying Computer Science & Engineering <br>
-✒️: Currently Working on Blockchain <br> <br>
+💻 Collaborate with me on Artificial Intelligence <br>
+✒️ Currently Working on Blockchain 
