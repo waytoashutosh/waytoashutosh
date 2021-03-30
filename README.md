@@ -11,6 +11,6 @@
 <br>
 <br>
 <a href="https://github.com/waytoashutosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waytoashutosh&show_icons=true&theme=flag-india&count_private=true" alt="Ashutosh's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&theme=flag-india&layout=compact" alt="Ashutosh's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waytoashutosh&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000" alt="Ashutosh's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&title_color=606060&text_color=606060&bg_color=00000000" alt="Ashutosh's github top languages" />
 </a>
