@@ -10,10 +10,10 @@
 ✒️ Currently Working on Blockchain 
 <br>
 <br>
-<a href="https://github.com/waytoashutosh">
-  <img align="left" height="195em" src="https://github-readme-stats.vercel.app/api?username=waytoashutosh&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000" alt="Ashutosh's github stats" />
-
+<a href="https://github-readme-stats.vercel.app/api?username=waytoashutosh&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waytoashutosh&layout=compact&langs_count=10&title_color=606060&text_color=606060&bg_color=00000000&hide_border=truecustom_title=My GitHub Stats" />
+</a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&langs_count=8">
-  <img  align="right" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&langs_count=10&title_color=606060&text_color=606060&bg_color=00000000&hide_border=true" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&langs_count=10&title_color=606060&text_color=606060&bg_color=00000000&hide_border=true" />
 </a>
