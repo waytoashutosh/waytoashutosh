@@ -11,9 +11,9 @@
 <br>
 <br>
 <a href="https://github.com/waytoashutosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waytoashutosh&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000" alt="Ashutosh's github stats" />
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=waytoashutosh&hide_border=true&hide_rank=false&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000" alt="Ashutosh's github stats" />
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&langs_count=8">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&langs_count=10&title_color=606060&text_color=606060&bg_color=00000000&hide_border=true" />
+  <img  align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytoashutosh&layout=compact&langs_count=10&title_color=606060&text_color=606060&bg_color=00000000&hide_border=true" />
 </a>
