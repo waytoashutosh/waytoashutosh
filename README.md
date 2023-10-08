@@ -7,7 +7,7 @@
 👨‍💻 I like to solve problems with amazing technology <br>
 👨‍🎓 Studying Computer Science & Engineering <br>
 💻 Collaborate with me on Artificial Intelligence <br>
-✒️ Currently Working on Blockchain 
+
 <br>
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=waytoashutosh&show_icons=true">
